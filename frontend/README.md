@@ -1,5 +1,5 @@
 # frontend
-
+Application not done yet... 
 ## Project setup
 ```
 npm install
